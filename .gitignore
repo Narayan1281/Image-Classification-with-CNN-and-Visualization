@@ -10,7 +10,6 @@ __pycache__/
 Group_20/
 *.zip
 notes.txt
-*.png
 
 # Distribution / packaging
 .Python
